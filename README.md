@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minn Khant Ko</h1>
-<h3 align="center">A passionate frontend developer from Myanmar.</h3>
+<h3 align="center">A DevOps Practitioner from Myanmar.</h3>
 
-- 🌱 I’m currently learning **React, Laravel**
+- 🌱 I’m currently learning **AWS, Jenkins**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Linux**
 
 - 📫 How to reach me **asiamaman000@gmail.com**
 
